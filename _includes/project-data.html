@@ -2,10 +2,8 @@
   {% for d in site.data.projects.[include.path] %}
     <h6>{{ d.agency }}</h6>
     <p><strong>Project Status:</strong> {{ d.status }}</p>
-    <p><strong>Schedule Delay:</strong> {{ d.delay }}</p>
-    <p><strong>Cost Overruns:</strong> {{ d.cost }}</p>
+    <p><strong>Transfer Status:</strong> {{ d.delay }}</p>
+    <p><strong>Repayment Status:</strong> {{ d.cost }}</p>
     <p><strong>Total TMF Investment Amount:</strong> {{ d.totalaward }}</p>
-    <p><strong>TMF Spend to Date:</strong> {{ d.spendtodate }}</p>
-    <p><strong>Commercial Product:</strong> {{ d.product }}</p>
   {% endfor %}
 </div>

@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "UNISYS Mainframe Migration"
   agency      : "Housing and Urban Development (HUD)"
-  status      : "In progress."
-  delay       : "Yes; project end date in Q2FY22."
-  cost        : "No"
+ status      : "Active"
+  transfer       : "Active"
+  repayment        : "Active"
   totalaward  : "$13,850,013"
-  spendtodate : "$13,850,013"
-  product     : "Yes"

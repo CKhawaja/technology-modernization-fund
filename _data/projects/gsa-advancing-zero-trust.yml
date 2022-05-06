@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "Advancing Zero Trust"
   agency      : "General Services Administration (GSA) "
-  status      : "In progress."
-  delay       : "No"
-  cost        : "No"
+ status      : "Active"
+  transfer       : "Active"
+  repayment        : "Active"
   totalaward  : "$29,802,431"
-  spendtodate : "$3,742,997"
-  product     : "No"

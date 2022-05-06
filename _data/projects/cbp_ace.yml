@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "Automated Commercial Environment Collections Module"
   agency      : "U.S. Customs and Border Protection (CBP)"
-  status      : "In progress."
-  delay       : "No"
-  cost        : "No"
+ status      : "Active"
+  transfer       : "Inactive"
+  repayment        : "Active"
   totalaward  : "$15,000,000"
-  spendtodate : "$15,000,000"
-  product     : "Yes"

@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "NewPay Payroll and Work Schedule and Leave Management Software-as-a-Service"
   agency      : "General Services Administration (GSA)"
-  status      : "Closed."
-  delay       : "No"
-  cost        : "No"
+ status      : "Inactive"
+  transfer       : "Inactive"
+  repayment        : "Active"
   totalaward  : "$7,316,786"
-  spendtodate : "$7,316,786"
-  product     : "Yes"

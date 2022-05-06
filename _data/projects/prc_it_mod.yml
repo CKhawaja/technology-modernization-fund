@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "IT Modernization"
   agency      : "U.S. Postal Regulatory Commission (PRC)"
-  status      : "In progress."
-  delay       : "No"
-  cost        : "No"
-  totalaward  : "$2,645,000"
-  spendtodate : "$0"
-  product     : "Yes"
+ status      : "Active"
+  transfer       : "Active"
+  repayment        : "Active"
+  totalaward  : "$$2,645,000"

@@ -2,17 +2,14 @@
 # - Project Name
 # - Agency
 # - Project Status
-# - Schedule Delay
-# - Cost Overruns
-# - Total TMF Investment
-# - Payback Period (Years)
-# - Commercial Product
+# - Transfer Status
+# - Repayment Status
+# - Total TMF Investment Amount
+
 
 - name        : "Charge and Case Management System Modernization"
   agency      : "U.S. Equal Employment Opportunity Commission (EEOC)"
-  status      : "In progress."
-  delay       : "No"
-  cost        : "No"
+ status      : "Active"
+  transfer       : "Active"
+  repayment        : "Active"
   totalaward  : "$4,000,000"
-  spendtodate : "$2,000,000"
-  product     : "Yes"

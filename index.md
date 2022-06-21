@@ -2,8 +2,8 @@
 layout: home
 title: The Technology Modernization Fund
 permalink: /
-description: "A innovative investment program for Federal technology modernization projects"
-deck: 'The TMF is an innovative funding vehicle that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
+description: "An innovative investment program for Federal technology modernization projects"
+deck: 'The TMF is an innovative investment program that gives agencies additional ways to deliver services to the American public more quickly, better secure sensitive systems and data, and use taxpayer dollars more efficiently.'
 ---
 
 The Technology Modernization Fund (TMF) was authorized by the Modernizing Government Technology Act of 2017.

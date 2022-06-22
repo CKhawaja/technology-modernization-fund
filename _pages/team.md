@@ -57,11 +57,11 @@ Our ideal candidates will be equally excited about sticky technical issues and i
 
 **Location:** Washington, DC or Virtual
 
-**Salary range:** The salary range for this position is: GS-15, Step 1 - $128,078 to GS-15, Step 10 - $172,500.
+**Salary range:** The salary range for this position is: GS-15, Step 1 - $128,078 to GS-15, Step 10 - $176,300.
 
 Salary will be determined upon selection, depending on duty location. For specific details on locality pay, visit [OPM’s Salaries & Wages page](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/) or [OPM’s 2021 General Schedule (GS) salary calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2021/general-schedule-gs-salary-calculator/).
 
-The current maximum salary available for the GS pay system is $172,500. However, you may not be eligible for the maximum salary as it is experience and locality dependent. Please refer to the maximum pay for your locality.
+The current maximum salary available for the GS pay system is $176,300. However, you may not be eligible for the maximum salary as it is experience and locality dependent. Please refer to the maximum pay for your locality.
 
 **Who may apply:** All United States citizens and nationals (residents of American Samoa and Swains Islands).
 

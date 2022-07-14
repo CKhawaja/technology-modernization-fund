@@ -8,7 +8,7 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "DOL PERM Visa Modernization"
+- name        : "PERM Visa Modernization"
   agency      : "U.S. Department of Labor (DOL)"
   status      : "Active"
   transfer    : "Active"

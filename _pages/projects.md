@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 26 projects across 15 federal agencies. 15 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 29 projects across 17 federal agencies. 18 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,9 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**PERM Visa Modernization (DOL)**](#perm-visa-modernization)
+- [**Grant Management Modernization (AmeriCorps)**](#grant-management-modernization)
+- [**Zero Trust Architecture (USAID)**](#zero-trust-architecture-)
 - [**Network Modernization (USDANet) (USDA)**](#network-modernization)
 - [**Multi-Cloud Security Operations Center (FTC)**](#multi-cloud-security-operations-center)
 - [**Information Sharing Modernization (DHS)**](#information-sharing-modernization)
@@ -37,7 +40,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**MAX.gov Transition (GSA)**](#maxgov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
-- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
+- [**Farmers.gov Customer Experience Portal (USDA)**](#farmersgov-customer)
 - [**Labor Certificate Processing Modernization (DOL)**](#labor-certificate-processing-modernization)
 - [**Application Modernization Integrating Flexible Architectures (GSA)**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)
@@ -52,6 +55,43 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ---
 
+## PERM Visa Modernization 
+
+{% include project-data.html path="dol_perm_visa" %}
+As recommended by the Board, the GSA Spend Plan allocates $7,000,000 to the U.S. Department of Labor (DOL) for the purpose of modernizing the permanent labor certification services, improving user experience, and enabling secure and efficient sharing of labor certification data.
+
+The PERM Visa Modernization project at the Department of Labor (DOL) will make it easier, faster, and cheaper for employers to access permanent labor certification services and create a more seamless immigrant visa processing experience with the Departments of Homeland Security (DHS) and State (DOS). Specifically, it will integrate a modernized PERM labor certification process into DOL’s Foreign Labor Application Gateway (FLAG) digital platform, which uses GSA’s Login.gov services and enables the secure and efficient sharing of labor certification data across the multi-agency visa processing life cycle through its Interagency DataHub technology.
+
+DOL processes nearly 120,000 requests for permanent labor certification across 73,000 unique employers annually. More than 68% of PERM applications request labor certification in STEM related jobs, and significant delays in processing may adversely affect the foreign worker’s ability to remain in the U.S and the employer’s ability to retain skilled talent. Employers seeking access to DOL permanent labor certification services currently face an outdated and fragmented sign-in and business verification process that is inefficient and challenging to navigate, redundant data collection and application filing requirements, multiple manual workarounds for agency staff, and lengthy labor certification documents that must be printed, signed, and mailed to DHS. The current system causes a poor customer experience for digitally accessing permanent labor certification services, inconsistent case processing times, unnecessary administrative costs for employers and government agencies, and increased fraud and security risks.
+
+With TMF funding and support, DOL will transform three processes: the process for PERM filers to submit applications, the process for PERM analysts to review applications, and the process to submit PERM labor certification decisions to USCIS and DOS. DOL has re-engineered its business processes to eliminate manual and paper-based processes. PERM modernization will enable PERM analysts to create and issue correspondence to filers, to automate the audit selection process for integrity reviews and to access data on problematic employers. DOL anticipates a reduction in the adjudication cycle time by approximately 45 days, a cost savings of $1.5 million annually for PERM filers, and cost avoidance of $2.2 million annually related to the elimination of paper-based processes, the reduction of office
+space/physical document storage, and the redirection of staff from manual work to higher-value adjudication work.
+
+---
+## Grant Management Modernization
+
+{% include project-data.html path="americorps-grant-manage-mod" %}
+
+This investment will deliver simple, secure, effective, and responsive digital solutions for more than 2,800 local, nonprofit, faith, and community-based organizations applying for funding or managing their existing federal national service grants. It will also improve customer experience for approximately 250,000 individuals from more than 40,000 communities that AmeriCorps engages in results-driven service. 
+
+The current system, developed in 2002, cannot effectively integrate with other federal systems or user engagement tools, lacks modern business intelligence capabilities to manage grants, and significantly restricts AmeriCorps’ ability to meet its mission, keep pace with the current grant-making standards and technical needs, and appropriately steward agency resources. 
+
+With TMF funding and support, AmeriCorps will modernize its information technology infrastructure, reduce barriers to accessing AmeriCorps resources, expand the agency’s ability to recruit and retain new organizations, and support more than 1,300 existing grantees. With a modern, agile system, AmeriCorps will be able to react quickly and efficiently as community and national challenges arise.
+
+AmeriCorps has formalized a partnership with the Grants Quality Service Management Office (QSMO) at the Department of Health and Human Services to capture new and emerging practices that can enhance federal grants management while providing value to other agencies. By replacing a legacy system that no longer meets user needs, AmeriCorps will be able to integrate these new and emerging federal grants practices, while significantly improving the agency’s ability to secure protected data. This system will underpin AmeriCorps’ complementary modernization initiatives designed to ensure that every American over 18 has an equitable opportunity to participate in national service and that US community-based organizations can benefit from national service resources. 
+
+
+---
+## Zero Trust Architecture 
+
+{% include project-data.html path="usaid-zero-trust" %}
+As a global enterprise, every technology asset, whether an application, laptop, desktop, server, or other device, represents both an opportunity and a risk for USAID. The “anywhere, anytime” access required by a global organization, coupled with the challenges presented by the COVID-19 pandemic, pushed the USAID network beyond the traditional perimeter boundary controls and left gaps in security such as remote identity proofing, privileged access management, and strong authentication assurance levels.
+
+With the support of the TMF, USAID can accelerate funding for its Zero Trust initiatives and can advance the development timeline earlier, from FY 2025 to FY 2024.  By the end of the project, USAID will have a modern identity management system that addresses the business problem by providing sufficient artifacts to meet Federal audit levels and compliance, as well as enhanced identity controls that permit USAID's cybersecurity teams to dynamically govern USAID user access to systems/applications/networks uniformly, regardless of user location. This will provide a greater degree of protection for the agency’s cyber assets and improve the work experience of 13,000+ end users around the world by consolidating identities, modernizing authentication, providing password-less technology, and expanding the Agency’s secure work for “anytime, anywhere” access.
+
+USAID’s planned capabilities are centered around five Zero Trust Architecture pillars - Identity, Devices, Networks, Applications & Workloads, and Data. TMF’s investment will support the Identity pillar projects under which USAID plans to complete next-generation Multifactor Authentication and Automation/Dynamic Access Control pilots in FY 2022 and complete the design and implementation in FY 2023. This will enable USAID to start transitioning users to the new identity management system in FY 2023. By FY 2024, USAID anticipates over 50% of users will be transitioned to the new Identity Management system. 
+
+---
 ## Network Modernization
 
 {% include project-data.html path="usda-usdanet" %}
@@ -244,7 +284,7 @@ Without this funding, DOE would have had to conduct the migration using a piecem
 
 ---
 
-## Farmers.gov Portal
+## Farmers.gov Customer Experience Portal
 
 {% include project-data.html path="usda_portal" %}
 

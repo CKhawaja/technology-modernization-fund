@@ -40,7 +40,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**MAX.gov Transition (GSA)**](#maxgov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
-- [**Farmers.gov Customer Experience Portal (USDA)**](#farmersgov-customer)
+- [**Farmers.gov Customer Experience Portal (USDA)**](#farmersgov-customer-experience-portal)
 - [**Labor Certificate Processing Modernization (DOL)**](#labor-certificate-processing-modernization)
 - [**Application Modernization Integrating Flexible Architectures (GSA)**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)

@@ -23,7 +23,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 - [**PERM Visa Modernization (DOL)**](#perm-visa-modernization)
 - [**Grant Management Modernization (AmeriCorps)**](#grant-management-modernization)
-- [**Zero Trust Architecture (USAID)**](#zero-trust-architecture-)
+- [**Zero Trust Architecture (USAID)**](#usaid-zero-trust-architecture)
 - [**Network Modernization (USDANet) (USDA)**](#network-modernization)
 - [**Multi-Cloud Security Operations Center (FTC)**](#multi-cloud-security-operations-center)
 - [**Information Sharing Modernization (DHS)**](#information-sharing-modernization)
@@ -82,7 +82,7 @@ AmeriCorps has formalized a partnership with the Grants Quality Service Manageme
 
 
 ---
-## Zero Trust Architecture 
+## USAID Zero Trust Architecture 
 
 {% include project-data.html path="usaid-zero-trust" %}
 As a global enterprise, every technology asset, whether an application, laptop, desktop, server, or other device, represents both an opportunity and a risk for USAID. The “anywhere, anytime” access required by a global organization, coupled with the challenges presented by the COVID-19 pandemic, pushed the USAID network beyond the traditional perimeter boundary controls and left gaps in security such as remote identity proofing, privileged access management, and strong authentication assurance levels.

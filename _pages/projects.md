@@ -51,7 +51,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Data Modernization (DOL)**](#data-modernization)
 - [**Classified Projects**](#classified-projects)
 
-###### Last updated: 7/20/2022
+###### Last updated: 7/22/2022
 
 ---
 

@@ -272,6 +272,8 @@ Securing a TMF investment served as a catalyst inside the Department and led to 
 
 {% include project-data.html path="doe_email" %}
 
+This project began in July 2018 and was closed out in July 2022.
+
 Maintaining multiple on-premises email environments not only drives up agency costs, but also increases the enterprise’s threat vector. Before starting this project, DOE operated 64 separate email systems (of which 45 were on-premises) that serviced approximately 184,387 mailboxes across the Department. Since FY 2018, DOE has completed moving 14 on-premises systems to cloud email, decommissioned one system, and established internally funded migration plans for 12 additional systems. DOE has been able to enhance its cybersecurity posture, reduce IT management and maintenance costs, and provide employees with a more robust email platform while migrating its email infrastructure to the cloud.  While the focus was on email migration, this project provides DOE residual benefits.  By leveraging Office 365 G5 licensing it not only supported DOE’s email requirements but the inherit capabilities within the Microsoft offering includes multiple collaboration capabilities (i.e., Teams, One Drive for Business) These capabilities will allow DOE to remove existing lines of demarcation and facilitate efficient, streamlined communications throughout the enterprise.  
 
 The Department originally requested $15,217,096 to complete the consolidation, upgrade, and migration effort for 26 on-premises systems (out of 45). The Department’s decision to pursue TMF funding served as a catalyst to garner support from federated labs and field offices, and enabled several DOE components to secure internal funding and move forward with migration efforts independently. DOE also identified 2,201 mailboxes that can be decommissioned, rather than migrated, due to the elimination of secondary email systems and other efficiencies. Due to the success of these efforts and additional internal investment, DOE completed the project with a reduced TMF funding amount of $2.4 million dollars. The project kicked off in Q4 2018 and over the project lifecycle, they have successfully migrated all 15,951 mailboxes, at sites within scope, to the cloud.
@@ -297,7 +299,7 @@ In just under 2 years, USDA developed a proof of concept that integrated dispara
 
 {% include project-data.html path="dol_visa" %}
 
-This project began in January 2019 and was completed in April 2021. 
+This project began in January 2019 and was closed out in May 2021. 
  
 Prior to this project, the Department of Labor (DOL) used an outdated paper-based process to issue Labor Certifications to employer applicants for certain types of work visas. This process required both specialized printing on costly security paper and employer applicants and representatives to manually mail Labor Certifications and other relevant documents to the Department of Homeland Security U.S. Citizenship and Immigration Service (USCIS) as part of their visa application.
  
@@ -323,7 +325,7 @@ Over the course of three years, GSA used a cross-functional Solutions Team with 
 
 {% include project-data.html path="usda_ck10" %}
 
-This project began in November 2018 and was completed in April 2020. 
+This project began in November 2018 and was closed out in April 2020. 
  
 In 2018, USDA had mission critical applications that were riddled with system performance issues and security challenges, as well as a decentralized IT infrastructure that was costly to maintain and upgrade. Ten critical applications were hosted on costly mission area-specific data centers, resulting in poor enterprise adoption of cloud services and a lack of expertise to maintain them. With the support of the TMF and its investment of $500,000, USDA worked with the GSA Cloud Centers of Excellence to develop their approach and the project represented the beginning of a continuous cloud-enablement across USDA.
  
@@ -336,7 +338,7 @@ This project enabled the Department to consolidate their cloud expertise and lev
 
 {% include project-data.html path="gsa_newpay" %}
 
-This project began in December 2018 and was closed out in July 2021. 
+This project began in February 2019 and was closed out in July 2021. 
 
 Federal payroll operations commonly rely on decades-old legacy software, which is costly and difficult to maintain. With support from the TMF, GSA created a minimum viable product (MVP) to address this need by leveraging software-as-a-service (SaaS) solutions, with the aim of laying a new foundation for an enterprise solution for human resource functions government wide. During the development of the MVP, GSA received the designation of Quality Service Management Office (QSMO) for Civilian HR Transaction Services for payroll and work schedule and leave management (WSLM), providing operational support for compensation management, work schedule, and leave management services. The HR QSMO continues to partner and collaborate with stakeholder groups, both withinOPM and across the federal human resources (HR) community, in the development of data standards to support the implementation of modern technical solutions within the Civilian HR Transactions marketplace.
 

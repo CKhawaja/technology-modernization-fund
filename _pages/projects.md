@@ -22,7 +22,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 ## List of All Investments
 
 - [**PERM Visa Modernization (DOL)**](#perm-visa-modernization)
-- [**Grant Management Modernization (AmeriCorps)**](#grant-management-modernization)
+- [**Grants Management Modernization (AmeriCorps)**](#grants-management-modernization)
 - [**Zero Trust Architecture (USAID)**](#usaid-zero-trust-architecture)
 - [**Network Modernization (USDANet) (USDA)**](#network-modernization)
 - [**Multi-Cloud Security Operations Center (FTC)**](#multi-cloud-security-operations-center)
@@ -51,7 +51,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Data Modernization (DOL)**](#data-modernization)
 - [**Classified Projects**](#classified-projects)
 
-###### Last updated: 7/22/2022
+###### Last updated: 7/25/2022
 
 ---
 
@@ -66,9 +66,9 @@ With TMF funding and support, DOL will transform three processes: the process fo
 space/physical document storage, and the redirection of staff from manual work to higher-value adjudication work.
 
 ---
-## Grant Management Modernization
+## Grants Management Modernization
 
-{% include project-data.html path="americorps-grant-manage-mod" %}
+{% include project-data.html path="americorps-grants-manage-mod" %}
 
 This investment will deliver simple, secure, effective, and responsive digital solutions for more than 2,800 local, nonprofit, faith, and community-based organizations applying for funding or managing their existing federal national service grants. It will also improve customer experience for approximately 250,000 individuals from more than 40,000 communities that AmeriCorps engages in results-driven service. 
 
@@ -83,7 +83,7 @@ AmeriCorps has formalized a partnership with the Grants Quality Service Manageme
 ## USAID Zero Trust Architecture 
 
 {% include project-data.html path="usaid-zero-trust" %}
-As a global enterprise, every technology asset, whether an application, laptop, desktop, server, or other device, represents both an opportunity and a risk for USAID. The “anywhere, anytime” access required by a global organization, coupled with the challenges presented by the COVID-19 pandemic, pushed the USAID network beyond the traditional perimeter boundary controls and left gaps in security such as remote identity proofing, privileged access management, and strong authentication assurance levels.
+As a global enterprise, every technology asset, whether an application, laptop, desktop, server, or other device, represents both an opportunity and a risk for the U.S. Agency for International Development (USAID). The “anywhere, anytime” access required by a global organization, coupled with the challenges presented by the COVID-19 pandemic, pushed the USAID network beyond the traditional perimeter boundary controls and left gaps in security such as remote identity proofing, privileged access management, and strong authentication assurance levels.
 
 With the support of the TMF, USAID can accelerate funding for its Zero Trust initiatives and can advance the development timeline earlier, from FY 2025 to FY 2024.  By the end of the project, USAID will have a modern identity management system that addresses the business problem by providing sufficient artifacts to meet Federal audit levels and compliance, as well as enhanced identity controls that permit USAID's cybersecurity teams to dynamically govern USAID user access to systems/applications/networks uniformly, regardless of user location. This will provide a greater degree of protection for the agency’s cyber assets and improve the work experience of 13,000+ end users around the world by consolidating identities, modernizing authentication, providing password-less technology, and expanding the Agency’s secure work for “anytime, anywhere” access.
 

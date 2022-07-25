@@ -8,8 +8,8 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Grant Mangagement Modernization"
-  agency      : "Americorps"
+- name        : "Grants Mangagement Modernization"
+  agency      : "AmeriCorps"
   status      : "Active"
   transfer    : "Active"
   repayment   : "Active"

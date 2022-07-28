@@ -19,7 +19,7 @@ Need to link to another page within the site?
 Add the link shortcode and the path to the file: `{{ site.baseurl }}{% link _pages/submit.md %}`
 
 ```
-Fill our our [submission guidelines]({{ site.baseurl }}{% link _pages/submit.md %})
+Fill out our [submission guidelines]({{ site.baseurl }}{% link _pages/submit.md %})
 ```
 Need to link to a section with the current page (AKA a reference link) ?
 Use the standard markdown link format and ensure the referenced text in the document is spelled identically with the text in the link specification `[Link Label](i-am-a-link-text)` clicking the link label will take the user to `'i am a link text'` later in the document. 

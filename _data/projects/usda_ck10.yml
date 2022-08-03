@@ -10,9 +10,9 @@
 
 - name        : "Infrastructure Optimization and Cloud Adoption"
   agency      : "Department of Agriculture (USDA)"
-  status      : "Complete"
-  transfer    : "Complete"
-  repayment   : "Complete"
+  status      : "Inactive"
+  transfer    : "Inactive"
+  repayment   : "Inactive"
   delay       : "No"
   cost        : "No"
   totalaward  : "$220,000"

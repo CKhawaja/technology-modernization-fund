@@ -8,13 +8,13 @@
 # - Payback Period (Years)
 # - Commercial Product
 
-- name        : "Advancing Zero Trust"
-  agency      : "General Services Administration (GSA) "
+- name        : "Zero Trust Architecture"
+  agency      : "U.S. Agency for International Development (USAID)"
   status      : "Active"
   transfer    : "Active"
   repayment   : "Active"
   delay       : "No"
   cost        : "No"
-  totalaward  : "$29,802,431"
-  spendtodate : "$9,150,522"
-  product     : "No"
+  totalaward  : "$5,687,598"
+  spendtodate : "$0"
+  product     : "Yes"

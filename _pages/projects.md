@@ -3,7 +3,7 @@ layout: page
 title: Investments
 permalink: /projects/
 description: "A list of all investments that have been awarded TMF funding."
-deck: "The Technology Modernization Fund has invested in a total of 26 projects across 15 federal agencies. 15 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
+deck: "The Technology Modernization Fund has invested in a total of 29 projects across 17 federal agencies. 18 of these investments were made with American Rescue Plan (ARP) funding to address urgent IT modernization challenges."
 
 ---
 
@@ -21,6 +21,9 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 
 ## List of All Investments
 
+- [**PERM Visa Modernization (DOL)**](#perm-visa-modernization)
+- [**Grants Management Modernization (AmeriCorps)**](#grants-management-modernization)
+- [**Zero Trust Architecture (USAID)**](#usaid-zero-trust-architecture)
 - [**Network Modernization (USDANet) (USDA)**](#network-modernization)
 - [**Multi-Cloud Security Operations Center (FTC)**](#multi-cloud-security-operations-center)
 - [**Information Sharing Modernization (DHS)**](#information-sharing-modernization)
@@ -37,7 +40,7 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**MAX.gov Transition (GSA)**](#maxgov-transition)
 - [**UNISYS Mainframe Migration (HUD)**](#unisys-mainframe-migration)
 - [**Enterprise Cloud Email (DOE)**](#enterprise-cloud-email)
-- [**Farmers.gov Portal (USDA)**](#farmersgov-portal)
+- [**Farmers.gov Customer Experience Portal (USDA)**](#farmersgov-customer-experience-portal)
 - [**Labor Certificate Processing Modernization (DOL)**](#labor-certificate-processing-modernization)
 - [**Application Modernization Integrating Flexible Architectures (GSA)**](#application-modernization-integrating-flexible-architectures)
 - [**Infrastructure Optimization and Cloud Adoption (USDA)**](#infrastructure-optimization-and-cloud-adoption)
@@ -48,10 +51,45 @@ With Login.gov and MAX.gov, these investments will transform authentication for 
 - [**Data Modernization (DOL)**](#data-modernization)
 - [**Classified Projects**](#classified-projects)
 
-###### Last updated: 6/10/2022
+###### Last updated: 8/3/2022
 
 ---
 
+## PERM Visa Modernization 
+
+{% include project-data.html path="dol_perm_visa" %}
+The PERM Visa Modernization project at the Department of Labor (DOL) will make it easier, faster, and cheaper for employers to access permanent labor certification services and create a more seamless immigrant visa processing experience with the Departments of Homeland Security (DHS) and State (DOS). Specifically, it will integrate a modernized PERM labor certification process into DOL’s Foreign Labor Application Gateway (FLAG) digital platform, which uses GSA’s Login.gov services and enables the secure and efficient sharing of labor certification data across the multi-agency visa processing life cycle through its Interagency DataHub technology.
+
+DOL processes nearly 120,000 requests for permanent labor certification across 73,000 unique employers annually. More than 68% of PERM applications request labor certification in STEM related jobs, and significant delays in processing may adversely affect the foreign worker’s ability to remain in the U.S and the employer’s ability to retain skilled talent. Employers seeking access to DOL permanent labor certification services currently face an outdated and fragmented sign-in and business verification process that is inefficient and challenging to navigate, redundant data collection and application filing requirements, multiple manual workarounds for agency staff, and lengthy labor certification documents that must be printed, signed, and mailed to DHS. The current system causes a poor customer experience for digitally accessing permanent labor certification services, inconsistent case processing times, unnecessary administrative costs for employers and government agencies, and increased fraud and security risks.
+
+With TMF funding and support, DOL will transform three processes: the process for PERM filers to submit applications, the process for PERM analysts to review applications, and the process to submit PERM labor certification decisions to USCIS and DOS. DOL has re-engineered its business processes to eliminate manual and paper-based processes. PERM modernization will enable PERM analysts to create and issue correspondence to filers, to automate the audit selection process for integrity reviews and to access data on problematic employers. DOL anticipates a reduction in the adjudication cycle time by approximately 45 days, a cost savings of $1.5 million annually for PERM filers, and cost avoidance of $2.2 million annually related to the elimination of paper-based processes, the reduction of office
+space/physical document storage, and the redirection of staff from manual work to higher-value adjudication work.
+
+---
+## Grants Management Modernization
+
+{% include project-data.html path="americorps-grants-manage-mod" %}
+
+This investment will deliver simple, secure, effective, and responsive digital solutions for more than 2,800 local, nonprofit, faith, and community-based organizations applying for funding or managing their existing federal national service grants. It will also improve customer experience for approximately 250,000 individuals from more than 40,000 communities that AmeriCorps engages in results-driven service. 
+
+The current system, developed in 2002, cannot effectively integrate with other federal systems or user engagement tools, lacks modern business intelligence capabilities to manage grants, and significantly restricts AmeriCorps’ ability to meet its mission, keep pace with the current grant-making standards and technical needs, and appropriately steward agency resources. 
+
+With TMF funding and support, AmeriCorps will modernize its information technology infrastructure, reduce barriers to accessing AmeriCorps resources, expand the agency’s ability to recruit and retain new organizations, and support more than 1,300 existing grantees. With a modern, agile system, AmeriCorps will be able to react quickly and efficiently as community and national challenges arise.
+
+AmeriCorps has formalized a partnership with the Grants Quality Service Management Office (QSMO) at the Department of Health and Human Services to capture new and emerging practices that can enhance federal grants management while providing value to other agencies. By replacing a legacy system that no longer meets user needs, AmeriCorps will be able to integrate these new and emerging federal grants practices, while significantly improving the agency’s ability to secure protected data. This system will underpin AmeriCorps’ complementary modernization initiatives designed to ensure that every American over 18 has an equitable opportunity to participate in national service and that US community-based organizations can benefit from national service resources. 
+
+
+---
+## USAID Zero Trust Architecture 
+
+{% include project-data.html path="usaid-zero-trust" %}
+As a global enterprise, every technology asset, whether an application, laptop, desktop, server, or other device, represents both an opportunity and a risk for the U.S. Agency for International Development (USAID). The “anywhere, anytime” access required by a global organization, coupled with the challenges presented by the COVID-19 pandemic, pushed the USAID network beyond the traditional perimeter boundary controls and left gaps in security such as remote identity proofing, privileged access management, and strong authentication assurance levels.
+
+With the support of the TMF, USAID can accelerate funding for its Zero Trust initiatives and can advance the development timeline earlier, from FY 2025 to FY 2024.  By the end of the project, USAID will have a modern identity management system that addresses the business problem by providing sufficient artifacts to meet Federal audit levels and compliance, as well as enhanced identity controls that permit USAID's cybersecurity teams to dynamically govern USAID user access to systems/applications/networks uniformly, regardless of user location. This will provide a greater degree of protection for the agency’s cyber assets and improve the work experience of 13,000+ end users around the world by consolidating identities, modernizing authentication, providing password-less technology, and expanding the Agency’s secure work for “anytime, anywhere” access.
+
+USAID’s planned capabilities are centered around five Zero Trust Architecture pillars - Identity, Devices, Networks, Applications & Workloads, and Data. TMF’s investment will support the Identity pillar projects under which USAID plans to complete next-generation Multifactor Authentication and Automation/Dynamic Access Control pilots in FY 2022 and complete the design and implementation in FY 2023. This will enable USAID to start transitioning users to the new identity management system in FY 2023. By FY 2024, USAID anticipates over 50% of users will be transitioned to the new Identity Management system. 
+
+---
 ## Network Modernization
 
 {% include project-data.html path="usda-usdanet" %}
@@ -234,17 +272,17 @@ Securing a TMF investment served as a catalyst inside the Department and led to 
 
 {% include project-data.html path="doe_email" %}
 
+This project began in July 2018 and was closed out in July 2022.
+
 Maintaining multiple on-premises email environments not only drives up agency costs, but also increases the enterprise’s threat vector. Before starting this project, DOE operated 64 separate email systems (of which 45 were on-premises) that serviced approximately 184,387 mailboxes across the Department. Since FY 2018, DOE has completed moving 14 on-premises systems to cloud email, decommissioned one system, and established internally funded migration plans for 12 additional systems. DOE has been able to enhance its cybersecurity posture, reduce IT management and maintenance costs, and provide employees with a more robust email platform while migrating its email infrastructure to the cloud.  While the focus was on email migration, this project provides DOE residual benefits.  By leveraging Office 365 G5 licensing it not only supported DOE’s email requirements but the inherit capabilities within the Microsoft offering includes multiple collaboration capabilities (i.e., Teams, One Drive for Business) These capabilities will allow DOE to remove existing lines of demarcation and facilitate efficient, streamlined communications throughout the enterprise.  
 
-The Department originally requested $15,217,096 to complete the consolidation, upgrade, and migration effort for 26 on-premises systems (out of 45). The Department’s decision to pursue TMF funding served as a catalyst to garner support from federated labs and field offices, and enabled several DOE components to secure internal funding and move forward with migration efforts independently. DOE also identified 2,201 mailboxes that can be decommissioned, rather than migrated, due to the elimination of secondary email systems and other efficiencies. Due to the success of these efforts and additional internal investment, DOE will complete the project with a reduced TMF funding amount of $2.4 million dollars. The project kicked off in Q4 2018 and as of Q1 2022, they have migrated 15,951 mailboxes to the cloud.
+The Department originally requested $15,217,096 to complete the consolidation, upgrade, and migration effort for 26 on-premises systems (out of 45). The Department’s decision to pursue TMF funding served as a catalyst to garner support from federated labs and field offices, and enabled several DOE components to secure internal funding and move forward with migration efforts independently. DOE also identified 2,201 mailboxes that can be decommissioned, rather than migrated, due to the elimination of secondary email systems and other efficiencies. Due to the success of these efforts and additional internal investment, DOE completed the project with a reduced TMF funding amount of $2.4 million dollars. The project kicked off in Q4 2018 and over the project lifecycle, they have successfully migrated all 15,951 mailboxes, at sites within scope, to the cloud.
  
 Without this funding, DOE would have had to conduct the migration using a piecemeal approach requiring an elongated migration timeline.  With support from the TMF, the project was tackled as a single effort which accelerated the overall migration effort. The operational benefits of this project include cost avoidance, increased efficiency, improved cyber posture, and decreased operational risk.
- 
-
 
 ---
 
-## Farmers.gov Portal
+## Farmers.gov Customer Experience Portal
 
 {% include project-data.html path="usda_portal" %}
 
@@ -261,7 +299,7 @@ In just under 2 years, USDA developed a proof of concept that integrated dispara
 
 {% include project-data.html path="dol_visa" %}
 
-This project began in January 2019 and was completed in April 2021. 
+This project began in January 2019 and was closed out in May 2021. 
  
 Prior to this project, the Department of Labor (DOL) used an outdated paper-based process to issue Labor Certifications to employer applicants for certain types of work visas. This process required both specialized printing on costly security paper and employer applicants and representatives to manually mail Labor Certifications and other relevant documents to the Department of Homeland Security U.S. Citizenship and Immigration Service (USCIS) as part of their visa application.
  
@@ -287,7 +325,7 @@ Over the course of three years, GSA used a cross-functional Solutions Team with 
 
 {% include project-data.html path="usda_ck10" %}
 
-This project began in November 2018 and was completed in April 2020. 
+This project began in November 2018 and was closed out in April 2020. 
  
 In 2018, USDA had mission critical applications that were riddled with system performance issues and security challenges, as well as a decentralized IT infrastructure that was costly to maintain and upgrade. Ten critical applications were hosted on costly mission area-specific data centers, resulting in poor enterprise adoption of cloud services and a lack of expertise to maintain them. With the support of the TMF and its investment of $500,000, USDA worked with the GSA Cloud Centers of Excellence to develop their approach and the project represented the beginning of a continuous cloud-enablement across USDA.
  
@@ -300,7 +338,7 @@ This project enabled the Department to consolidate their cloud expertise and lev
 
 {% include project-data.html path="gsa_newpay" %}
 
-This project began in December 2018 and was closed out in July 2021. 
+This project began in February 2019 and was closed out in July 2021. 
 
 Federal payroll operations commonly rely on decades-old legacy software, which is costly and difficult to maintain. With support from the TMF, GSA created a minimum viable product (MVP) to address this need by leveraging software-as-a-service (SaaS) solutions, with the aim of laying a new foundation for an enterprise solution for human resource functions government wide. During the development of the MVP, GSA received the designation of Quality Service Management Office (QSMO) for Civilian HR Transaction Services for payroll and work schedule and leave management (WSLM), providing operational support for compensation management, work schedule, and leave management services. The HR QSMO continues to partner and collaborate with stakeholder groups, both withinOPM and across the federal human resources (HR) community, in the development of data standards to support the implementation of modern technical solutions within the Civilian HR Transactions marketplace.
 

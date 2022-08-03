@@ -11,7 +11,7 @@
 - name        : "Automated Commercial Environment Collections Module"
   agency      : "U.S. Customs and Border Protection (CBP)"
   status      : "Active"
-  transfer    : "Complete"
+  transfer    : "Inactive"
   repayment   : "Active"
   delay       : "No"
   cost        : "No"

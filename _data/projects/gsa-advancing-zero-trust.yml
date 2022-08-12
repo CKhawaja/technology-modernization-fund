@@ -10,9 +10,11 @@
 
 - name        : "Advancing Zero Trust"
   agency      : "General Services Administration (GSA) "
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$29,802,431"
-  spendtodate : "$3,742,997"
+  spendtodate : "$9,150,522"
   product     : "No"

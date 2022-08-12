@@ -10,9 +10,11 @@
 
 - name        : "Login.gov"
   agency      : "General Services Administration (GSA)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$187,050,000"
-  spendtodate : "$0"
+  spendtodate : "$14,299,876.99"
   product     : "No"

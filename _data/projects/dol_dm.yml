@@ -10,9 +10,11 @@
 
 - name        : "Data Modernization"
   agency      : "Department of Labor"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Active"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$9,600,000"
-  spendtodate : "$0"
+  spendtodate : "$2,500,000"
   product     : "Yes"

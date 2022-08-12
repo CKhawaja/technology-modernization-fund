@@ -10,9 +10,11 @@
 
 - name        : "Charge and Case Management System Modernization"
   agency      : "U.S. Equal Employment Opportunity Commission (EEOC)"
-  status      : "In progress."
+  status      : "Active"
+  transfer    : "Inactive"
+  repayment   : "Active"
   delay       : "No"
   cost        : "No"
   totalaward  : "$4,000,000"
-  spendtodate : "$2,000,000"
+  spendtodate : "$2,948,000"
   product     : "Yes"
